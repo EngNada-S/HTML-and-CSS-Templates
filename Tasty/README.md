@@ -10,5 +10,5 @@ Landing page built with **HTML** and **CSS** only.
 ---
 
 ## 📸 Preview
-![Design Preview](https://github.com/EngNada-S/HTML-and-CSS-Templates/blob/main/Tasty/images/main.jpeg?raw=true)
+![Design Preview](https://github.com/EngNada-S/HTML-and-CSS-Templates/blob/main/Tasty/images/main.png?raw=true)
 
